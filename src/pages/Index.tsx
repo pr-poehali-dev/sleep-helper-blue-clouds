@@ -125,7 +125,7 @@ const Index = () => {
         <div className="flex items-center">
           <Icon name="MoonStar" className="h-8 w-8 mr-2 text-[#E5DEFF]" />
           <h1 className="text-2xl font-bold font-montserrat tracking-tight text-[#E5DEFF]">
-            Сохайсат
+            Somnora
           </h1>
         </div>
         <nav>
@@ -317,7 +317,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <Icon name="MoonStar" className="h-6 w-6 mr-2 text-[#E5DEFF]" />
-            <span className="text-[#E5DEFF]">Сохайсат © 2025</span>
+            <span className="text-[#E5DEFF]">Somnora © 2025</span>
           </div>
           <div className="flex space-x-8">
             <a href="#" className="hover:text-[#D3E4FD] transition-colors">
